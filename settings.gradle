@@ -1,0 +1,4 @@
+rootProject.name = 'lifting-the-lid-unit-testing-framework'
+
+include 'initial'
+include 'final'
