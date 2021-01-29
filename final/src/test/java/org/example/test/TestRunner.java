@@ -1,4 +1,4 @@
-package org.example.app;
+package org.example.test;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;

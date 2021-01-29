@@ -1,5 +1,7 @@
 package org.example.app;
 
+import org.example.test.Test;
+
 public class IntCalculatorTest {
 
     @Test
